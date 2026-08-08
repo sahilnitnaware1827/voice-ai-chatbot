@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+.Voice_AI_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Audio files generated during runtime
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

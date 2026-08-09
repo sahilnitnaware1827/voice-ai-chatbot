@@ -99,7 +99,7 @@ Voice_AI_Chatbot/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-ai-chatbot.git
+git clone https://github.com/sahilnitnaware1827/voice-ai-chatbot
 ```
 
 Move into the project directory:
